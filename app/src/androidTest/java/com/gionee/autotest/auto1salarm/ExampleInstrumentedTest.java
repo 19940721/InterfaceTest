@@ -1,4 +1,4 @@
-package com.gionee.autotest.interfacetest;
+package com.gionee.autotest.auto1salarm;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

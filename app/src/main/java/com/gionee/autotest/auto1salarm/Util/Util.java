@@ -1,4 +1,4 @@
-package com.gionee.autotest.interfacetest.Util;
+package com.gionee.autotest.auto1salarm.Util;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

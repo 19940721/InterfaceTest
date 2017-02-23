@@ -1,4 +1,4 @@
-package com.gionee.autotest.interfacetest;
+package com.gionee.autotest.auto1salarm;
 
 import android.app.Activity;
 import android.app.ActivityManager;
@@ -31,13 +31,13 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.gionee.auto.auto1salarm.R;
-import com.gionee.autotest.interfacetest.Util.Instrument;
-import com.gionee.autotest.interfacetest.Util.Preference;
-import com.gionee.autotest.interfacetest.Util.Util;
+import com.gionee.autotest.auto1salarm.Util.Instrument;
+import com.gionee.autotest.auto1salarm.Util.Preference;
+import com.gionee.autotest.auto1salarm.Util.Util;
 
 import java.util.Calendar;
 
-import static com.gionee.autotest.interfacetest.Util.Util.getTime;
+import static com.gionee.autotest.auto1salarm.Util.Util.getTime;
 
 
 public class MainActivity extends Activity implements OnClickListener{
